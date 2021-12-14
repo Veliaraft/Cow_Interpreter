@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CowInterpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "Happy.txt"
+    },
+    "Fibonacci": {
+      "commandName": "Project",
+      "commandLineArgs": "Fibonacci.txt"
+    }
+  }
+}

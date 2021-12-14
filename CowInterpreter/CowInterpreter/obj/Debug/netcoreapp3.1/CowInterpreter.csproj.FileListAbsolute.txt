@@ -1,0 +1,14 @@
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\bin\Debug\netcoreapp3.1\CowInterpreter.exe
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\bin\Debug\netcoreapp3.1\CowInterpreter.deps.json
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\bin\Debug\netcoreapp3.1\CowInterpreter.runtimeconfig.json
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\bin\Debug\netcoreapp3.1\CowInterpreter.runtimeconfig.dev.json
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\bin\Debug\netcoreapp3.1\CowInterpreter.dll
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\bin\Debug\netcoreapp3.1\CowInterpreter.pdb
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.csproj.AssemblyReference.cache
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.AssemblyInfoInputs.cache
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.AssemblyInfo.cs
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.dll
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.pdb
+C:\Users\Veliaraft\Desktop\CowInterpreter\CowInterpreter\obj\Debug\netcoreapp3.1\CowInterpreter.genruntimeconfig.cache
